@@ -1,4 +1,4 @@
-## I’m **Farah Manoubi** — Software Engineer & Mobile Developer 🚀  
+## Hi, I’m **Farah** — Software Engineer & Mobile Developer 🚀  
 
 - 📱 Flutter & iOS (Swift, Storyboards)  
 - ☁️ Backend: Node.js, Express, MongoDB  
