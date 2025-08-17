@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Farah  👋
 
 I'm **Farah Manoubi**, a software engineer passionate about building smart, useful, and creative applications.  
 I enjoy working on **mobile apps (Flutter, iOS)**, **backend development (Node.js, MongoDB, Express)**, and **Java applications**.  
