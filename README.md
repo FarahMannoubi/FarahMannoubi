@@ -2,7 +2,7 @@
 
 - 📱 Flutter & iOS (Swift, Storyboards)  
 - ☁️ Backend: Node.js, Express, MongoDB  
-- 💻 Java applications & OOP design  
+- 💻 Java applications & OOD design  
 - 🎨 UI/UX design process  
 - 🤖 Exploring AI in mobile apps
 
